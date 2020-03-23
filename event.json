@@ -1,5 +1,5 @@
 {
-    "track": "hungaroring_2019",
+    "track": "laguna_seca_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 180,
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 18,
+            "hourOfDay": 16,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
