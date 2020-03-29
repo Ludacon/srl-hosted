@@ -1,5 +1,5 @@
 {
-    "track": "laguna_seca_2019",
+    "track": "zolder",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 180,
@@ -12,7 +12,7 @@
     "weatherRandomness": 0.0,
     "sessions": [
         {
-            "hourOfDay": 9,
+            "hourOfDay": 8,
             "dayOfWeekend": 1,
             "timeMultiplier": 6,
             "sessionType": "P",
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 16,
+            "hourOfDay": 17,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
