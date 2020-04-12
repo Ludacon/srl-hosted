@@ -1,5 +1,5 @@
 {
-    "track": "nurburgring_2019",
+    "track": "spa_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 180,
@@ -7,9 +7,9 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 26,
     "trackTemp": 30,
-    "cloudLevel": 0.0,
+    "cloudLevel": 0.5,
     "rain": 0.0,
-    "weatherRandomness": 0.0,
+    "weatherRandomness": 1,
     "sessions": [
         {
             "hourOfDay": 8,
