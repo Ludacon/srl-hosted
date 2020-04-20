@@ -9,7 +9,7 @@
     "trackTemp": 30,
     "cloudLevel": 0.0,
     "rain": 0.0,
-    "weatherRandomness": 1,
+    "weatherRandomness": 0,
     "sessions": [
         {
             "hourOfDay": 8,
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 15,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
