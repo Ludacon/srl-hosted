@@ -2,11 +2,11 @@
     "track": "suzuka_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
-    "postQualySeconds": 180,
+    "postQualySeconds": 60,
     "postRaceSeconds": 900,
     "sessionOverTimeSeconds": 300,
-    "ambientTemp": 26,
-    "trackTemp": 30,
+    "ambientTemp": 25,
+    "trackTemp": 28,
     "cloudLevel": 0.0,
     "rain": 0.0,
     "weatherRandomness": 0,
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 15,
+            "hourOfDay": 14,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
