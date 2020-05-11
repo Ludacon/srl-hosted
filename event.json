@@ -1,12 +1,12 @@
 {
-    "track": "suzuka_2019",
+    "track": "barcelona_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
     "postRaceSeconds": 900,
     "sessionOverTimeSeconds": 300,
-    "ambientTemp": 25,
-    "trackTemp": 28,
+    "ambientTemp": 21,
+    "trackTemp": 23,
     "cloudLevel": 0.0,
     "rain": 0.0,
     "weatherRandomness": 0,
@@ -30,7 +30,7 @@
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
-            "sessionDurationMinutes": 80
+            "sessionDurationMinutes": 40
         }
     ],
     "configVersion": 1
