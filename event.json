@@ -1,5 +1,5 @@
 {
-    "track": "barcelona_2019",
+    "track": "brands_hatch_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -14,7 +14,7 @@
         {
             "hourOfDay": 8,
             "dayOfWeekend": 1,
-            "timeMultiplier": 6,
+            "timeMultiplier": 2,
             "sessionType": "P",
             "sessionDurationMinutes": 180
         },
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 21,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
