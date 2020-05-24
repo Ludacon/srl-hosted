@@ -1,5 +1,5 @@
 {
-    "track": "brands_hatch_2019",
+    "track": "misano_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,9 +7,9 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.0,
+    "cloudLevel": 0.5,
     "rain": 0.0,
-    "weatherRandomness": 0,
+    "weatherRandomness": 1,
     "sessions": [
         {
             "hourOfDay": 8,
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 21,
+            "hourOfDay": 13,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
