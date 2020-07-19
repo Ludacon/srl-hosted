@@ -1,5 +1,5 @@
 {
-    "track": "zandvoort_2019",
+    "track": "spa_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,14 +7,14 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.5,
+    "cloudLevel": 0.0,
     "rain": 0.0,
-    "weatherRandomness": 1,
+    "weatherRandomness": 0,
     "sessions": [
         {
-            "hourOfDay": 8,
+            "hourOfDay": 14,
             "dayOfWeekend": 1,
-            "timeMultiplier": 2,
+            "timeMultiplier": 1,
             "sessionType": "P",
             "sessionDurationMinutes": 180
         },
@@ -26,11 +26,11 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 13,
             "dayOfWeekend": 3,
-            "timeMultiplier": 6,
+            "timeMultiplier": 12,
             "sessionType": "R",
-            "sessionDurationMinutes": 40
+            "sessionDurationMinutes": 144
         }
     ],
     "configVersion": 1
