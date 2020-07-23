@@ -12,7 +12,7 @@
     "weatherRandomness": 0,
     "sessions": [
         {
-            "hourOfDay": 14,
+            "hourOfDay": 10,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "P",
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 13,
+            "hourOfDay": 11,
             "dayOfWeekend": 3,
             "timeMultiplier": 12,
             "sessionType": "R",
