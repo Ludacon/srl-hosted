@@ -11,5 +11,5 @@
     "isMandatoryPitstopRefuellingRequired": false,
     "isMandatoryPitstopTyreChangeRequired": true,
     "isMandatoryPitstopSwapDriverRequired": false,
-    "tyreSetCount": 20
+    "tyreSetCount": 30
 }
