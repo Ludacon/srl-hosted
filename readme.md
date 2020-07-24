@@ -1,5 +1,5 @@
 ```
 
 
-ACC - SRL Race - loaded at 4/22 @ 01:31:04 UTC w/ S03W05 Suzuka - events.json update pulled. 
+ACC - SRL Race - loaded at 7/24 @ 01:24:31 UTC UTC w/ S05W05 Spa
 Updated both event and eventrules.jsons
