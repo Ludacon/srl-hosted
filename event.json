@@ -30,7 +30,7 @@
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
-            "sessionDurationMinutes": 144
+            "sessionDurationMinutes": 40
         }
     ],
     "configVersion": 1
