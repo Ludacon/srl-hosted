@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 15,
+            "hourOfDay": 18,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
