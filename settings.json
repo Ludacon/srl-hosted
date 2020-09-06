@@ -7,6 +7,7 @@
     "allowAutoDQ": 0,
     "password": "gtr77",
     "spectatorPassword": "77rtg",
+    "maxCarSlots": 85,
     "dumpLeaderboards": 1,
     "dumpEntryList": 1,
     "isRaceLocked": 1,
