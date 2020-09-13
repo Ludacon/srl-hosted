@@ -10,7 +10,7 @@
     "maxCarSlots": 105,
     "dumpLeaderboards": 1,
     "dumpEntryList": 1,
-    "isRaceLocked": 1,
+    "isRaceLocked": 0,
     "shortFormationLap": 0,
     "centralEntryListPath": "",
     "configVersion": 1,
