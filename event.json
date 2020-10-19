@@ -1,5 +1,5 @@
 {
-    "track": "suzuka_2019",
+    "track": "laguna_seca_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -26,11 +26,11 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 16,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
-            "sessionDurationMinutes": 80
+            "sessionDurationMinutes": 40
         }
     ],
     "configVersion": 1
