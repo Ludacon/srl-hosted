@@ -21,14 +21,14 @@
         {
             "hourOfDay": 12,
             "dayOfWeekend": 2,
-            "timeMultiplier": 6,
+            "timeMultiplier": 4,
             "sessionType": "Q",
             "sessionDurationMinutes": 30
         },
         {
             "hourOfDay": 14,
             "dayOfWeekend": 3,
-            "timeMultiplier": 2,
+            "timeMultiplier": 4,
             "sessionType": "R",
             "sessionDurationMinutes": 80
         }
