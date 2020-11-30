@@ -28,7 +28,7 @@
         {
             "hourOfDay": 14,
             "dayOfWeekend": 3,
-            "timeMultiplier": 6,
+            "timeMultiplier": 2,
             "sessionType": "R",
             "sessionDurationMinutes": 80
         }
