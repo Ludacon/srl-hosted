@@ -1,5 +1,5 @@
 {
-    "track": "kyalami_2019",
+    "track": "zandvoort_2020",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -12,11 +12,11 @@
     "weatherRandomness": 1,
     "sessions": [
         {
-            "hourOfDay": 10,
+            "hourOfDay": 0,
             "dayOfWeekend": 1,
             "timeMultiplier": 1,
             "sessionType": "P",
-            "sessionDurationMinutes": 180
+            "sessionDurationMinutes": 240
         },
         {
             "hourOfDay": 12,
@@ -26,9 +26,9 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 22,
             "dayOfWeekend": 3,
-            "timeMultiplier": 6,
+            "timeMultiplier": 4,
             "sessionType": "R",
             "sessionDurationMinutes": 40
         }
