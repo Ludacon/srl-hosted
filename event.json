@@ -1,5 +1,5 @@
 {
-    "track": "spa_2020",
+    "track": "zolder_2020",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,14 +7,14 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.4,
+    "cloudLevel": 0.2,
     "rain": 0.0,
     "weatherRandomness": 1,
     "sessions": [
         {
-            "hourOfDay": 10,
+            "hourOfDay": 22,
             "dayOfWeekend": 1,
-            "timeMultiplier": 1,
+            "timeMultiplier": 2,
             "sessionType": "P",
             "sessionDurationMinutes": 240
         },
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 22,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
