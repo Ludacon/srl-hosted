@@ -1,5 +1,5 @@
 {
-    "track": "zolder_2020",
+    "track": "donington_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,12 +7,12 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.2,
+    "cloudLevel": 0.4,
     "rain": 0.0,
     "weatherRandomness": 1,
     "sessions": [
         {
-            "hourOfDay": 22,
+            "hourOfDay": 10,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
             "sessionType": "P",
@@ -26,7 +26,7 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 22,
+            "hourOfDay": 14,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
