@@ -1,5 +1,5 @@
 {
-    "track": "nurburgring_2020",
+    "track": "mount_panorama_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,9 +7,9 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.5,
-    "rain": 0.3,
-    "weatherRandomness": 7,
+    "cloudLevel": 0.2,
+    "rain": 0.0,
+    "weatherRandomness": 0,
     "sessions": [
         {
             "hourOfDay": 10,
@@ -26,11 +26,11 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 13,
+            "hourOfDay": 4,
             "dayOfWeekend": 3,
             "timeMultiplier": 6,
             "sessionType": "R",
-            "sessionDurationMinutes": 40
+            "sessionDurationMinutes": 80
         }
     ],
     "configVersion": 1
