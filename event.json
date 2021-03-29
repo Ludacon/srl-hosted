@@ -1,5 +1,5 @@
 {
-    "track": "oulton_park_2019",
+    "track": "suzuka_2019",
     "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
@@ -7,7 +7,7 @@
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.0,
+    "cloudLevel": 0.2,
     "rain": 0.0,
     "weatherRandomness": 0,
     "sessions": [
