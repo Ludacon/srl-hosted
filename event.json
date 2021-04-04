@@ -1,6 +1,5 @@
 {
     "track": "laguna_seca_2019",
-    "eventType": "E_6h",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
     "postRaceSeconds": 900,
