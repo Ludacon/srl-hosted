@@ -1,14 +1,14 @@
 {
-    "track": "laguna_seca_2019",
+    "track": "snetterton_2019",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
     "postRaceSeconds": 900,
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.5,
-    "rain": 0.3,
-    "weatherRandomness": 6,
+    "cloudLevel": 0.3,
+    "rain": 0.0,
+    "weatherRandomness": 0,
     "sessions": [
         {
             "hourOfDay": 10,
@@ -27,7 +27,7 @@
         {
             "hourOfDay": 14,
             "dayOfWeekend": 3,
-            "timeMultiplier": 4,
+            "timeMultiplier": 6,
             "sessionType": "R",
             "sessionDurationMinutes": 40
         }
