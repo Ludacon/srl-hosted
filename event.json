@@ -1,17 +1,17 @@
 {
-    "track": "snetterton_2019",
+    "track": "misano_2020",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
     "postRaceSeconds": 900,
     "sessionOverTimeSeconds": 300,
     "ambientTemp": 21,
     "trackTemp": 23,
-    "cloudLevel": 0.3,
+    "cloudLevel": 0.1,
     "rain": 0.0,
     "weatherRandomness": 0,
     "sessions": [
         {
-            "hourOfDay": 10,
+            "hourOfDay": 22,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
             "sessionType": "P",
@@ -25,9 +25,9 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 14,
+            "hourOfDay": 22,
             "dayOfWeekend": 3,
-            "timeMultiplier": 6,
+            "timeMultiplier": 4,
             "sessionType": "R",
             "sessionDurationMinutes": 40
         }
