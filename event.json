@@ -1,5 +1,5 @@
 {
-    "track": "misano_2020",
+    "track": "imola_2020",
     "preRaceWaitingTimeSeconds": 300,
     "postQualySeconds": 60,
     "postRaceSeconds": 900,
@@ -11,7 +11,7 @@
     "weatherRandomness": 0,
     "sessions": [
         {
-            "hourOfDay": 22,
+            "hourOfDay": 12,
             "dayOfWeekend": 1,
             "timeMultiplier": 2,
             "sessionType": "P",
@@ -25,11 +25,11 @@
             "sessionDurationMinutes": 30
         },
         {
-            "hourOfDay": 22,
+            "hourOfDay": 15,
             "dayOfWeekend": 3,
             "timeMultiplier": 4,
             "sessionType": "R",
-            "sessionDurationMinutes": 40
+            "sessionDurationMinutes": 80
         }
     ],
     "configVersion": 1
